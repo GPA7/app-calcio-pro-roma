@@ -1,0 +1,380 @@
+Rosa Attuale (27 Giocatori)
+1
+R
+Raia Gabriele
+ID: 28
+
+0'
+Min. Giocati
+0
+Convocato
+0
+Entrato
+Portiere
+DETTAGLI
+ELIMINA
+2
+P
+Palombini Filippo
+ID: 24
+
+0'
+Min. Giocati
+0
+Convocato
+0
+Entrato
+Terzino Destro d'Attacco
+DETTAGLI
+ELIMINA
+10
+A
+Albani Daniele
+ID: 7
+
+0'
+Min. Giocati
+0
+Convocato
+0
+Entrato
+Centrocampista Centrale
+DETTAGLI
+ELIMINA
+12
+P
+Pizzi Flavio
+ID: 26
+
+0'
+Min. Giocati
+0
+Convocato
+0
+Entrato
+Portiere
+DETTAGLI
+ELIMINA
+?
+P
+Piacentini Francesco
+ID: 25
+
+0'
+Min. Giocati
+0
+Convocato
+0
+Entrato
+Esterno Alto Destro
+DETTAGLI
+ELIMINA
+?
+S
+Suozzo Francesco
+ID: 32
+
+0'
+Min. Giocati
+0
+Convocato
+0
+Entrato
+Difensore Centrale
+DETTAGLI
+ELIMINA
+?
+C
+Ciucci Ignazio
+ID: 13
+
+0'
+Min. Giocati
+0
+Convocato
+0
+Entrato
+Trequartista
+DETTAGLI
+ELIMINA
+?
+C
+Coco Jacopo
+ID: 14
+
+0'
+Min. Giocati
+0
+Convocato
+0
+Entrato
+Centrocampista Centrale
+DETTAGLI
+ELIMINA
+?
+D
+De Felice Riccardo
+ID: 15
+
+0'
+Min. Giocati
+0
+Convocato
+0
+Entrato
+DETTAGLI
+ELIMINA
+?
+G
+Gala Gabriele
+ID: 20
+
+0'
+Min. Giocati
+0
+Convocato
+0
+Entrato
+Difensore
+DETTAGLI
+ELIMINA
+?
+M
+Maddalo Romeo
+ID: 21
+
+0'
+Min. Giocati
+0
+Convocato
+0
+Entrato
+Difensore
+DETTAGLI
+ELIMINA
+?
+M
+Marano Diego
+ID: 23
+
+0'
+Min. Giocati
+0
+Convocato
+0
+Entrato
+Attaccante
+DETTAGLI
+ELIMINA
+?
+P
+Proietti Andrea
+ID: 27
+
+0'
+Min. Giocati
+0
+Convocato
+0
+Entrato
+Terzino Sinistro
+DETTAGLI
+ELIMINA
+?
+S
+Scarpanti Damiano
+ID: 29
+
+0'
+Min. Giocati
+0
+Convocato
+0
+Entrato
+Difensore Centrale
+DETTAGLI
+ELIMINA
+?
+A
+Amici Simone
+ID: 8
+
+0'
+Min. Giocati
+0
+Convocato
+0
+Entrato
+Attaccante
+ATT
+DETTAGLI
+ELIMINA
+?
+S
+Shaidul Islam
+ID: 30
+
+0'
+Min. Giocati
+0
+Convocato
+0
+Entrato
+Trequartista
+DETTAGLI
+ELIMINA
+?
+D
+Donzelli Alessandro
+ID: 18
+
+0'
+Min. Giocati
+0
+Convocato
+0
+Entrato
+Attaccante
+DETTAGLI
+ELIMINA
+?
+F
+Frijia Kevin
+ID: 19
+
+0'
+Min. Giocati
+0
+Convocato
+0
+Entrato
+Ala Destra
+DETTAGLI
+ELIMINA
+?
+S
+Struffi Gabriele
+ID: 31
+
+0'
+Min. Giocati
+0
+Convocato
+0
+Entrato
+Ala Destra
+DETTAGLI
+ELIMINA
+?
+V
+Valente Francesco
+ID: 33
+
+0'
+Min. Giocati
+0
+Convocato
+0
+Entrato
+Attaccante
+DETTAGLI
+ELIMINA
+?
+E
+Endaya Atienza Dave
+ID: 10
+
+0'
+Min. Giocati
+0
+Convocato
+0
+Entrato
+Centrocampista
+CEN
+DETTAGLI
+ELIMINA
+?
+B
+Bonanni Daniele
+ID: 12
+
+0'
+Min. Giocati
+0
+Convocato
+0
+Entrato
+Centrocampista
+ALA
+DETTAGLI
+ELIMINA
+?
+M
+Monardo Bruno
+ID: 11
+
+0'
+Min. Giocati
+0
+Convocato
+0
+Entrato
+Difensore
+POR
+DETTAGLI
+ELIMINA
+?
+D
+Di Maio Diego
+ID: 17
+
+0'
+Min. Giocati
+0
+Convocato
+0
+Entrato
+Attaccante
+DETTAGLI
+ELIMINA
+?
+M
+Magri’ Mattia
+ID: 22
+
+0'
+Min. Giocati
+0
+Convocato
+0
+Entrato
+Difensore
+DETTAGLI
+ELIMINA
+?
+D
+De Tiberis Daniele
+ID: 16
+
+0'
+Min. Giocati
+0
+Convocato
+0
+Entrato
+Terzino Destro
+DETTAGLI
+ELIMINA
+?
+A
+Arboletto Daniel
+ID: 9
+
+0'
+Min. Giocati
+0
+Convocato
+0
+Entrato
+Attaccante

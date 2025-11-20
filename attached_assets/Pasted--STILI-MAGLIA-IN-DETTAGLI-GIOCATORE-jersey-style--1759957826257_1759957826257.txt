@@ -1,0 +1,63 @@
+/* ============== STILI MAGLIA IN DETTAGLI GIOCATORE ============== */
+        .jersey-style {
+            width: 90px;
+            height: 100px;
+            background-color: var(--jersey-body); /* Giallo */
+            border-radius: 4px;
+            position: relative;
+            /* Nuova clip-path per simulare le maniche/forma T-shirt */
+            clip-path: polygon(0 0, 100% 0, 100% 70%, 90% 80%, 90% 100%, 10% 100%, 10% 80%, 0% 70%);
+            box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
+            border: 2px solid var(--jersey-accent); /* Bordo Rosso */
+            overflow: hidden;
+        }
+        
+        /* Striscia Collo (Rosso) */
+        .jersey-style::before {
+            content: '';
+            position: absolute;
+            background-color: var(--jersey-accent);
+            top: 0;
+            left: 50%;
+            transform: translateX(-50%);
+            width: 30%;
+            height: 12px;
+            border-radius: 0 0 5px 5px;
+        }
+        /* Strisce (rosse) verticali */
+        .jersey-style::after {
+            content: '';
+            position: absolute;
+            bottom: 0;
+            left: 50%;
+            transform: translateX(-50%);
+            width: 25%; /* Striscia centrale verticale */
+            height: 100%;
+            background: linear-gradient(to right, 
+                var(--jersey-accent) 0%, var(--jersey-accent) 20%, 
+                transparent 20%, transparent 80%, 
+                var(--jersey-accent) 80%, var(--jersey-accent) 100%);
+            opacity: 0.5; /* Per non coprire il numero */
+        }
+        
+        .jersey-content {
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            text-align: center;
+        }
+        .jersey-content .jersey-number {
+            font-size: 50px;
+            font-weight: 900;
+            line-height: 1;
+            color: var(--jersey-accent); /* Numero Rosso */
+        }
+        .jersey-content .jersey-name {
+            font-size: 12px;
+            font-weight: 600;
+            letter-spacing: 1px;
+            color: var(--jersey-accent);
+            margin-bottom: 5px;
+        }
+        

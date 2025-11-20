@@ -1,0 +1,87 @@
+        /* NUOVO TEMA FC STYLE: DARK MODE / NEON ACCENTS */
+        :root {
+            --primary-color: #00eaff; /* Neon Cyan/Blue */
+            --secondary-color: #ff4081; /* Vibrant Pink/Red Accent */
+            --background-color: #1a1a2e; /* Deep Indigo/Dark Blue */
+            --card-background: #2a2a4a; /* Darker Purple/Blue - Content Containers */
+            --text-light: #e0e0e0;
+            --text-normal: #ffffff;
+            --danger-color: #ff6b6b; /* Soft Red */
+            
+            /* NUOVI COLORI MAGLIA PERSONALIZZATI */
+            --jersey-body: #FACC15; /* Giallo (Amber-400) */
+            --jersey-accent: #EF4444; /* Rosso (Red-500) */
+        }
+        body {
+            font-family: 'Inter', sans-serif;
+            background-color: var(--background-color);
+            color: var(--text-light); /* Testo chiaro su sfondo scuro */
+            min-height: 100vh;
+        }
+        .container { max-width: 1200px; margin: auto; padding: 1rem; }
+        
+        /* Navigazione */
+        .nav-button {
+            color: var(--text-light);
+            border: 1px solid transparent;
+            transition: all 0.2s;
+        }
+        .nav-button:hover {
+            color: var(--primary-color);
+            border-color: var(--primary-color);
+        }
+        .nav-button.active {
+            background-color: var(--primary-color);
+            color: #1a1a2e; /* Testo scuro sul neon */
+            font-weight: 700;
+            box-shadow: 0 0 15px rgba(0, 234, 255, 0.7); /* Ombra neon */
+        }
+
+        /* Card e Container */
+        .card {
+            background-color: var(--card-background);
+            border-radius: 16px; /* Più arrotondato */
+            box-shadow: 0 4px 15px rgba(0, 0, 0, 0.4);
+            padding: 1.5rem;
+            border: 1px solid #3f3f6e; /* Bordo leggero per separazione */
+        }
+        .player-card { transition: transform 0.2s, box-shadow 0.2s; }
+        .player-card:hover { transform: translateY(-3px); box-shadow: 0 0 20px rgba(0, 234, 255, 0.2); }
+        
+        /* Campi Form */
+        input:not([type="checkbox"]), textarea, select {
+            background-color: #1a1a2e; 
+            border-color: #3f3f6e;
+            color: var(--text-normal);
+            border-radius: 8px;
+        }
+        
+        /* Titoli e Separatori */
+        .text-primary-color { color: var(--primary-color); }
+        .text-secondary-color { color: var(--secondary-color); }
+        .border-b { border-color: #3f3f6e; }
+
+        /* STILI CAMPO DA CALCIO PROFESSIONALE (Verticale) */
+        .field {
+            height: 90vh; /* Altezza fissa per il campo verticale */
+            width: 100%;
+            max-width: 600px; /* Limita la larghezza per mantenere l'aspect ratio sul desktop */
+            border: 3px solid white;
+            position: relative;
+            border-radius: 8px;
+            overflow: hidden;
+            background-color: #0b5038; /* Verde più scuro e saturo */
+            box-shadow: 0 0 15px rgba(0, 0, 0, 0.7);
+            margin: 0 auto; /* Centra orizzontalmente */
+        }
+        /* Mini Campo (Per Modale Dettagli) */
+        .mini-field {
+            height: 120px;
+            width: 80px;
+            border: 1px solid white;
+            position: relative;
+            border-radius: 4px;
+            overflow: hidden;
+            background-color: #0c6145;
+            margin: 10px auto;
+        }
